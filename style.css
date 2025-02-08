@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+header{border: 5px solid green}
+h1{border: 3px solid blue;
+color: orange }
+footer{background-color: green ;}
+nav{border: 2px solid blue;
+margin-top: 30px;
+text-decoration: underline ;
+
+}
+
+.prod{background-color: green ;}
+h2 {color:blue}
